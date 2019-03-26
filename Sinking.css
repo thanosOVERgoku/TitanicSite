@@ -1,0 +1,48 @@
+body {
+  background-color-white;
+
+ }
+
+a {
+  background-color: blue;
+  color: white;
+  padding: 2.5em 7em;
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: futura;
+}
+
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 70px 150px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+h1  {
+  color: navy;
+  font-size: 60px;
+  text-align: center;
+  font-family: futura;
+ }
+
+
+h2  {
+  color: orange;
+  font-size: 40px;
+  text-align: center;
+  font-family: futura;
+ }
+
+p  {
+  color: blue;
+  font-size: 40px;
+  text-size: 20px;
+  text-align: center;
+  font-family: futura;
+ }
