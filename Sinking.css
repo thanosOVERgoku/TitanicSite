@@ -16,10 +16,11 @@ a {
 
 .button {
   background-color: #4CAF50; /* Green */
-  border: none;
+  border: black;
   color: white;
   padding: 70px 150px;
   text-align: center;
+  align:center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
