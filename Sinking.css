@@ -5,6 +5,7 @@ body {
 
 a {
   background-color: blue;
+  align:center;
   color: white;
   padding: 2.5em 7em;
   font-size: 20px;
